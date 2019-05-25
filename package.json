@@ -1,0 +1,24 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "robots to create videos in youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guibs1/video-maker.git"
+  },
+  "keywords": [
+    "robots",
+    "videos",
+    "node"
+  ],
+  "author": "guibs1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guibs1/video-maker/issues"
+  },
+  "homepage": "https://github.com/Guibs1/video-maker#readme"
+}
