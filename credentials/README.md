@@ -1,0 +1,5 @@
+# algorithmia
+{
+        "apiKey":""
+}
+# IBM cloud
