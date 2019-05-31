@@ -1,4 +1,5 @@
-instancia do chrome no terminal nohead
-google trends
-algorithmia
-node é claro
+# pesquisas externas
+## Instancia do chrome no terminal nohead
+## Google trends
+## Algorithmia
+## Node é claro
